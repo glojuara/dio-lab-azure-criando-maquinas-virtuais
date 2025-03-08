@@ -1,0 +1,1 @@
+# dio-lab-azure-criando-maquinas-virtuais
